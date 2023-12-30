@@ -1,6 +1,3 @@
-## Olá! Me chamo Daniel Barbosa
+#Olá mundo
 
-
-- 💻Hoje não trabalho, mas pretendo trabalhar como back-end
-- ☕Estudando Java e iniciando na programação
-- 👨Pronomes: ele/dele
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudobarbosa&show_icons=true&theme=gotham)

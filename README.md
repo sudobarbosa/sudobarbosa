@@ -23,3 +23,14 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbosa-514a4b2a6/)
 
+<!--Language-->
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+<!--gif-->
+
+<div align="center">
+  <img height="200" src="https://imgs.search.brave.com/rR023JRf7ZhdljjeGFcISEXd2Q4cZ4WBCT0d7L419PQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL1JRU3Va/ZnV5bFZOQVkvZ2lw/aHkuZ2lm.gif"  />
+</div>

@@ -1,4 +1,4 @@
-## Olá! Me chamo Daneil Barbosa
+## Olá! Me chamo Daniel Barbosa
 
 
 - 💻Hoje não trabalho, mas pretendo trabalhar como back-end

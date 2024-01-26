@@ -32,4 +32,28 @@
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudobarbosa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudobarbosa/)
+
+<!-- GithubStats -->
+
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=sudobarbosa&show_icons=true&theme=dark)
+
+## 💻 Skills
+
+<!-- Skills: Programming Languages -->
+
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </div>
+  
+  <!-- Skills: Tools -->
+  
+  <div style="flex-basis: 48%;">
+    <h3>Tools</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  </div>
  

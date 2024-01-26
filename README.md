@@ -14,18 +14,3 @@
 
   - 🔎 And I'm always accepting help and opportunities to learn or even work
 </p>
-
-<!--GitHubStats-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudobarbosa&show_icons=true&theme=gotham)
-
-<!--Links-->
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barbosa-514a4b2a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudobarbosa/)
-
-<!--Language-->
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>

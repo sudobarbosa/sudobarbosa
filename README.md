@@ -8,9 +8,9 @@
 <!-- Presentation -->
 
 <p>
-  Hi 👋, Hello! My name is Daniel and I'm currently starting to program and deciding to go to college for computer science
+  Hi 👋 Hello, my name is Daniel Barbosa and I am a backend developer, currently studying Java
 
-  - 🌳 I'm currently studying to be a back-end developer
+  - 🌳 I'm currently studying to be a back-end developer and studying computer science in college.
 
-  - 🔎 And I'm always accepting help and opportunities to learn or even work
+  - 🔎 I'm looking for opportunities for my first job.
 </p>

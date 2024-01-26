@@ -8,7 +8,7 @@
 <!-- Presentation -->
 
 <p>
-  Hi 👋 Hello, my name is Daniel Barbosa and I am a backend developer, currently studying Java
+  - 👋 Hello, my name is Daniel Barbosa and I am a backend developer, currently studying Java
 
   - 🌳 I'm currently studying to be a back-end developer and studying computer science in college.
 

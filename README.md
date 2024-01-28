@@ -24,7 +24,7 @@
 
   - ⚡ Without studying programming I'm usually playing games, watching anime or reading books.
 
-  - 🕮 Regarding languages, I know Portuguese which is my native language, English which I learned over time and I consider my English to be intermediate and I am also studying German.
+  - 🕮 Regarding languages, I speak Portuguese which is my native language, English which I learned over time and I consider my English to be intermediate and I am also studying German.
 
  </details>
 

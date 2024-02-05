@@ -41,17 +41,14 @@
 
 <!-- Skills: Programming Languages -->
 
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-      <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <div align="left">
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  </div>
-  
-  <!-- Skills: Tools -->
-  
-  <div style="flex-basis: 48%;">
-    <h3>Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  </div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
  
